@@ -1,5 +1,5 @@
 # Repository use
-Created for use in analyzing PEP GPC data
+Created for use in analyzing PEP [poly(ethylene-co-propylene)] GPC data from Scott UCSB lab
 
 ## Inputs
 1. .arw GPC output file name
